@@ -1,0 +1,16 @@
+2020-02-26 15:18:41,558 root         INFO     'halftone   Pics\\Binarization\\Image1.bmp   ' 46.88 ms
+2020-02-26 15:18:49,246 root         INFO     'bradley_roth   Pics\\Binarization\\Image1.bmp   ' 7734.06 ms
+2020-02-26 15:18:49,291 root         INFO     'halftone   Pics\\Binarization\\Image2.bmp   ' 42.03 ms
+2020-02-26 15:18:57,580 root         INFO     'bradley_roth   Pics\\Binarization\\Image2.bmp   ' 8331.08 ms
+2020-02-26 15:18:57,595 root         INFO     'halftone   Pics\\Binarization\\Image3.bmp   ' 0.00 ms
+2020-02-26 15:18:59,782 root         INFO     'bradley_roth   Pics\\Binarization\\Image3.bmp   ' 2187.02 ms
+2020-02-26 15:18:59,814 root         INFO     'halftone   Pics\\Binarization\\Image4.bmp   ' 15.57 ms
+2020-02-26 15:19:03,285 root         INFO     'bradley_roth   Pics\\Binarization\\Image4.bmp   ' 3487.36 ms
+2020-02-26 15:19:03,292 root         INFO     'halftone   Pics\\Binarization\\Image5.bmp   ' 4.00 ms
+2020-02-26 15:19:03,841 root         INFO     'bradley_roth   Pics\\Binarization\\Image5.bmp   ' 553.02 ms
+2020-02-26 15:19:03,935 root         INFO     'halftone   Pics\\Binarization\\Image6.bmp   ' 93.75 ms
+2020-02-26 15:19:17,780 root         INFO     'bradley_roth   Pics\\Binarization\\Image6.bmp   ' 13938.45 ms
+2020-02-26 15:19:17,796 root         INFO     'halftone   Pics\\Binarization\\Image7.bmp   ' 15.63 ms
+2020-02-26 15:19:21,136 root         INFO     'bradley_roth   Pics\\Binarization\\Image7.bmp   ' 3356.50 ms
+2020-02-26 15:19:21,224 root         INFO     'halftone   Pics\\Binarization\\Image8.bmp   ' 16.01 ms
+2020-02-26 15:19:23,323 root         INFO     'bradley_roth   Pics\\Binarization\\Image8.bmp   ' 2114.55 ms
