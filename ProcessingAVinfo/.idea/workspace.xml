@@ -1,110 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Task_2/filter.py" line="24" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="58e985ac-9fe7-47b2-96b4-5d14e63af862" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="cd87d0fa-a609-468d-b278-b77842435057" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="94874292">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.304" value="1" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.37" value="2" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.45" value="1" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="bmp" value="632" />
-          <entry key="ipynb" value="1" />
-          <entry key="jpg" value="5" />
-          <entry key="log" value="41" />
-          <entry key="png" value="4" />
-          <entry key="py" value="124" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IPNB" value="1" />
-          <entry key="Image" value="641" />
-          <entry key="Log" value="7" />
-          <entry key="PLAIN_TEXT" value="34" />
-          <entry key="Python" value="124" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="24" />
-          <entry key="py" value="9170" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="24" />
-          <entry key="Python" value="9170" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1686782107">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="78" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="78" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Task_2/filter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -113,169 +14,50 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-    <dirStrings>
-      <dir>C:\ProcessingAVinfo\Task 1\Pics\For Resampling</dir>
-    </dirStrings>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$USER_HOME$/Desktop/ОАВИ/lab_1.ipynb" />
-        <option value="$PROJECT_DIR$/Task 1/Resampling.py" />
-        <option value="$PROJECT_DIR$/timeit_decorator.py" />
-        <option value="$PROJECT_DIR$/Task 1/resampling.py" />
-        <option value="$PROJECT_DIR$/Task 1/sample.log" />
-        <option value="$PROJECT_DIR$/Task 1/timeit_decorator.py" />
-        <option value="$PROJECT_DIR$/Task 1/logs/Binarization.log" />
-        <option value="$PROJECT_DIR$/Task 1/binarization.py" />
-        <option value="$PROJECT_DIR$/Task 1/main.py" />
-        <option value="$PROJECT_DIR$/Task 1/halftoning.py" />
-        <option value="$PROJECT_DIR$/Task 2/main.py" />
-        <option value="$PROJECT_DIR$/Task 2/filter.py" />
-        <option value="$PROJECT_DIR$/Task 3/contours.py" />
-        <option value="$PROJECT_DIR$/Task_3/__init__.py" />
-        <option value="$PROJECT_DIR$/Task_2/__init__.py" />
-        <option value="$PROJECT_DIR$/Task_3/timeit_decorator.py" />
-        <option value="$PROJECT_DIR$/Task_3/main.py" />
-        <option value="$PROJECT_DIR$/Task_3/contours.py" />
-        <option value="$PROJECT_DIR$/Task_2/filter_reserve.py" />
-        <option value="$PROJECT_DIR$/Task_2/main.py" />
-        <option value="$PROJECT_DIR$/Task_4/main.py" />
-        <option value="$PROJECT_DIR$/Task_2/filter.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="54" />
-    <option name="y" value="-8" />
-    <option name="width" value="1874" />
-    <option name="height" value="1096" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>Python</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>PyMissingOrEmptyDocstringInspection</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ProcessingAVinfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProcessingAVinfo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProcessingAVinfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProcessingAVinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="Task_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProcessingAVinfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProcessingAVinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="Task_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProcessingAVinfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProcessingAVinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="Task_2" type="462c0819:PsiDirectoryNode" />
-              <item name="Pics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProcessingAVinfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProcessingAVinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="Task_2" type="462c0819:PsiDirectoryNode" />
-              <item name="Pics" type="462c0819:PsiDirectoryNode" />
-              <item name="Median Filter Edg" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="ProcessingAVinfo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="ProcessingAVinfo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Task_2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="JupyterTrust" id="c4d81b83-75fd-4c27-ab72-b7727446403b" />
+  <component name="ProjectId" id="1aggStnYfzB6T3TFu4rbEl5og2Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Task_8" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\ProcessingAVinfo\Task_4" />
-      <recent name="C:\ProcessingAVinfo\Task_2\Pics\Median Filter Mid" />
-      <recent name="C:\ProcessingAVinfo\Task_2\Pics\Median Filter Edg" />
-      <recent name="C:\ProcessingAVinfo\Task_2" />
-      <recent name="C:\ProcessingAVinfo\Task_3" />
+      <recent name="C:\OAVI\Task_8" />
+      <recent name="C:\OAVI\Task_9" />
+      <recent name="C:\OAVI" />
+      <recent name="C:\OAVI\venv\Lib\site-packages" />
+      <recent name="C:\OAVI\Task_6\Data\lab6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\ProcessingAVinfo\Task_2" />
-      <recent name="C:\ProcessingAVinfo\Task_3\Pics" />
-      <recent name="C:\ProcessingAVinfo\Task_3" />
-      <recent name="C:\ProcessingAVinfo" />
-      <recent name="C:\ProcessingAVinfo\Task 3" />
+      <recent name="C:\OAVI\Task_8" />
+      <recent name="C:\OAVI\Task_9" />
+      <recent name="C:\OAVI\Task_6\Data\lab4" />
+      <recent name="C:\OAVI\Task_6\Data\lab5" />
+      <recent name="C:\OAVI\Task_6" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="contours" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ProcessingAVinfo" />
+  <component name="RunManager" selected="Python.contrast">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="OAVI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_3" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_3/contours.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,19 +66,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ProcessingAVinfo" />
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="OAVI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_3" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\OAVI\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\ProcessingAVinfo\main.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,19 +88,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ProcessingAVinfo" />
+    <configuration name="audio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OAVI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_3" />
+      <option name="SDK_HOME" value="C:\OAVI\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_3/main.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_9/audio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,19 +110,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ProcessingAVinfo" />
+    <configuration name="contrast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OAVI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_2" />
+      <option name="SDK_HOME" value="C:\OAVI\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_2/main.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_8/contrast.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,19 +132,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ProcessingAVinfo" />
+    <configuration name="new (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OAVI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_4" />
+      <option name="SDK_HOME" value="C:\OAVI\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_4/main.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_9/new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OAVI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\OAVI\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_7" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_7/new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="texture_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OAVI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\OAVI\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_7/texture_analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,19 +199,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main (2)" />
-      <item itemvalue="Python.contours" />
-      <item itemvalue="Python.main (3)" />
-      <item itemvalue="Python.main (4)" />
-      <item itemvalue="Python.main" />
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.texture_analysis" />
+      <item itemvalue="Python.new" />
+      <item itemvalue="Python.contrast" />
+      <item itemvalue="Python.audio" />
+      <item itemvalue="Python.new (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.contours" />
-        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.contrast" />
+        <item itemvalue="Python.new (1)" />
+        <item itemvalue="Python.audio" />
+        <item itemvalue="Python.new" />
+        <item itemvalue="Python.texture_analysis" />
       </list>
     </recent_temporary>
   </component>
@@ -390,240 +221,129 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="58e985ac-9fe7-47b2-96b4-5d14e63af862" name="Default Changelist" comment="" />
-      <created>1581789210606</created>
+      <changelist id="cd87d0fa-a609-468d-b278-b77842435057" name="Default Changelist" comment="" />
+      <created>1587162653534</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581789210606</updated>
+      <updated>1587162653534</updated>
+      <workItem from="1587162673718" duration="3416000" />
+      <workItem from="1587194096087" duration="6778000" />
+      <workItem from="1587384569012" duration="253000" />
+      <workItem from="1587490852370" duration="4154000" />
+      <workItem from="1587566898242" duration="2854000" />
+      <workItem from="1589462309140" duration="18762000" />
+      <workItem from="1589582165543" duration="10108000" />
+      <workItem from="1590197609769" duration="630000" />
+      <workItem from="1590249800773" duration="5401000" />
+      <workItem from="1590262744885" duration="449000" />
+      <workItem from="1590827500993" duration="3697000" />
+      <workItem from="1591291903916" duration="41931000" />
+      <workItem from="1591535727643" duration="2168000" />
+      <workItem from="1591553760453" duration="7251000" />
+      <workItem from="1591567347776" duration="7025000" />
+      <workItem from="1591578199407" duration="3298000" />
+      <workItem from="1591581509836" duration="574000" />
+      <workItem from="1591582253352" duration="310000" />
+      <workItem from="1591582805494" duration="18361000" />
+      <workItem from="1591611540289" duration="3431000" />
+      <workItem from="1591629967300" duration="8149000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <layout>
-      <window_info id="Structure" order="0" sideWeight="0.284689" side_tool="true" weight="0.21449925" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.715311" weight="0.13997822" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3266385" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925262" weight="0.25792813" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32875264" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007474" side_tool="true" weight="0.36557376" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Structure" order="0" sideWeight="0.284689" side_tool="true" weight="0.21449925" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.715311" visible="true" weight="0.13997822" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3266385" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925262" weight="0.25792813" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32875264" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007474" side_tool="true" weight="0.36557376" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state x="704" y="216" key="#Images" timestamp="1587166112830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="216" key="#Images/0.0.1920.1040@0.0.1920.1040" timestamp="1587166112830" />
+    <state x="414" y="175" width="1090" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591582281348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1090" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591582281348" />
+    <state x="716" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591625051400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591625051400" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591591981550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591591981550" />
+    <state x="604" y="272" width="440" height="489" key="FileChooserDialogImpl" timestamp="1591582872643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="604" y="272" width="440" height="489" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591582872643" />
+    <state x="517" y="415" key="Github.ShareDialog" timestamp="1591291938293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="517" y="415" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591291938293" />
+    <state width="916" height="207" key="GridCell.Tab.0.bottom" timestamp="1591632481254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591632481254" />
+    <state width="916" height="207" key="GridCell.Tab.0.center" timestamp="1591632481253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591632481253" />
+    <state width="916" height="207" key="GridCell.Tab.0.left" timestamp="1591632481253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591632481253" />
+    <state width="916" height="207" key="GridCell.Tab.0.right" timestamp="1591632481254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591632481254" />
+    <state width="963" height="344" key="GridCell.Tab.1.bottom" timestamp="1591535549267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="963" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591535549267" />
+    <state width="963" height="344" key="GridCell.Tab.1.center" timestamp="1591535549267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="963" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591535549267" />
+    <state width="963" height="344" key="GridCell.Tab.1.left" timestamp="1591535549267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="963" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591535549267" />
+    <state width="963" height="344" key="GridCell.Tab.1.right" timestamp="1591535549267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="963" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591535549267" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1591582959733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591582959733" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1587164315683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1587164315683" />
+    <state x="94" y="75" width="1736" height="856" key="dock-window-2" timestamp="1587164315683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="94" y="75" width="1736" height="856" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1587164315683" />
+    <state x="152" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1591568913760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="152" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591568913760" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Task_2/Img3.bmp" />
-    <entry file="file://$PROJECT_DIR$/Task_2/Results/Median Filter Mid/new_Img3.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Results/Median Filter Mid/new_Img2.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Results/Median Filter Mid/new_Img1.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Pics/Median Filter Mid/Img3.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Pics/Median Filter Mid/Img2.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Pics/Median Filter Mid/Img1.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Pics/Median Filter Edg/Img2.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Pics/Median Filter Edg/Img1.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_1/Results/Binarization/new_Image5.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_1/Results/Binarization/new_Image7.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_1/Results/Binarization/new_Image8.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_1/Results/Binarization/new_Image6.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_1/Results/Binarization/new_Image4.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_1/Results/Binarization/new_Image3.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_1/Results/Binarization/new_Image2.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_1/Results/Binarization/new_Image1.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Pics/Median Filter Edg/Img3.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Results/Median Filter Mid/new_Img4.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Results/Median Filter Edg/new_Img1.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Results/Median Filter Edg/new_Img2.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Results/Median Filter Edg/new_Img3.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/Results/Median Filter Edg/new_Img4.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/A.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/B.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/C.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/D.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/E.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/F.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/S.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/Q.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/O.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/M.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/L.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/K.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/J.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/I.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/H.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/Symbols/G.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_3/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_3/Img1.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_3/new_img1.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_3/Img2.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_3/new_img1_x.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_3/contours.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_3/NEW.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_3/new_img1_y.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_4/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_2/filter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OAVI$audio.coverage" NAME="audio Coverage Results" MODIFIED="1591611628275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_9" />
+    <SUITE FILE_PATH="coverage/OAVI$new__1_.coverage" NAME="new (1) Coverage Results" MODIFIED="1591623710499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_9" />
+    <SUITE FILE_PATH="coverage/OAVI$dsa.coverage" NAME="dsa Coverage Results" MODIFIED="1587162856964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OAVI$main.coverage" NAME="main Coverage Results" MODIFIED="1587491553625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_1" />
+    <SUITE FILE_PATH="coverage/OAVI$texture_analysis.coverage" NAME="texture_analysis Coverage Results" MODIFIED="1591585581944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_7" />
+    <SUITE FILE_PATH="coverage/OAVI$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1587569314241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_3" />
+    <SUITE FILE_PATH="coverage/OAVI$h.coverage" NAME="h Coverage Results" MODIFIED="1591554533571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_6" />
+    <SUITE FILE_PATH="coverage/OAVI$classification.coverage" NAME="classification Coverage Results" MODIFIED="1591558799558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_6" />
+    <SUITE FILE_PATH="coverage/OAVI$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1591381228019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_4" />
+    <SUITE FILE_PATH="coverage/OAVI$_util.coverage" NAME="_util Coverage Results" MODIFIED="1591582011344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages/PIL" />
+    <SUITE FILE_PATH="coverage/OAVI$segment.coverage" NAME="segment Coverage Results" MODIFIED="1591535440646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_5" />
+    <SUITE FILE_PATH="coverage/OAVI$new_segm.coverage" NAME="new_segm Coverage Results" MODIFIED="1591373969242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_5" />
+    <SUITE FILE_PATH="coverage/OAVI$new.coverage" NAME="new Coverage Results" MODIFIED="1591592499104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_7" />
+    <SUITE FILE_PATH="coverage/OAVI$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1590830859836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_5" />
+    <SUITE FILE_PATH="coverage/OAVI$signs.coverage" NAME="signs Coverage Results" MODIFIED="1591381194966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_4" />
+    <SUITE FILE_PATH="coverage/OAVI$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1591582262313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/OAVI$contrast.coverage" NAME="contrast Coverage Results" MODIFIED="1591632481245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_8" />
   </component>
 </project>

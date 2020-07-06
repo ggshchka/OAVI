@@ -25,8 +25,8 @@ def generate(operation_func, operation_name, *a):
 
 if __name__ == '__main__':
     #Image.open("Img.png").save("Img3.bmp")
-    generate(filter.median_filter_mid, 'Median Filter Mid')
-    generate(filter.median_filter_edg, 'Median Filter Edg')
+    generate(filter.median_filter_edg_3_3, 'Median Filter Edg')
+    #generate(filter.median_filter_edg_3_3, 'Median Filter Edg')
 
 
     #Image.open("Img6.jpg").save("Img6.bmp")

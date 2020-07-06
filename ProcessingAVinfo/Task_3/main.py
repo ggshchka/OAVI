@@ -8,6 +8,7 @@ import contours
 - перебирает все изображения в папке и применяет к ним определенную функцию
 - сохраняет новые изображения в другой папке
 '''
+'''
 def generate(operation_func, operation_name, *a):
     logging.basicConfig(filename=r"Logs" "\\" + operation_name + ".log",
                         filemode="w",
@@ -21,14 +22,16 @@ def generate(operation_func, operation_name, *a):
             new_img.save(r"Results" "\\" + operation_name + r"\new_" + filename)
         else:
             print("There are no .bmp files")
-
+'''
 
 if __name__ == '__main__':
-    img = Image.open('Img1.bmp')
-    contours.find_contours(img)[0].save('new_img1.bmp')
-    contours.find_contours(img)[1].save('new_img1_x.bmp')
-    contours.find_contours(img)[2].save('new_img1_y.bmp')
-
+    img = Image.open('Img2.bmp')
+    res_imgs = contours.find_contours(img)
+    res_imgs[0].save('new_img2_ht.bmp')
+    res_imgs[1].save('new_img2.bmp')
+    res_imgs[2].save('new_img2_x.bmp')
+    res_imgs[3].save('new_img2_y.bmp')
+    res_imgs[4].save('new_img2_BIN.bmp')
     #generate(filter.median_filter_mid, 'Median Filter Mid', 5)
     #generate(filter.median_filter_edg, 't3', 5)
     #Image.open("Img6.jpg").save("Img6.bmp")

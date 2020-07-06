@@ -27,7 +27,7 @@ def generate(operation_func, operation_name, *a):
 
 if __name__ == '__main__':
 
-    #generate(resampling.resample, "Resampling", 0.4)
+    generate(resampling.resample, "Resampling", 2)
     #generate(halftoning.halftone, "Halftoning")
     #generate(binarization.bradley_roth, "Binarization")
 

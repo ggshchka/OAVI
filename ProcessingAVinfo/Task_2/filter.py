@@ -82,9 +82,9 @@ def median_filter_edg(img):
 
 @timeit
 def median_filter_edg_3_3(img):
-    core = np.array([[10, 5, 10],
-                     [5, 1, 5],
-                     [10, 5, 10]])
+    core = np.array([[3, 2, 3],
+                     [2, 1, 2],
+                     [3, 2, 3]])
     border = np.sum(core)/2
     pixes = np.array(img)
     if 255 in pixes:

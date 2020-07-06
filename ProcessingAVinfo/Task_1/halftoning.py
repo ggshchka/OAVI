@@ -1,8 +1,7 @@
-from timeit_decorator import timeit
+
 import numpy as np
 from PIL import Image
 
-@timeit
 def halftone(img):
     img_arr = np.array(img)
     #coef = [1/3, 1/3, 1/3]

@@ -1,8 +1,8 @@
-2020-03-28 02:02:02,180 root         INFO     'median_filter_mid   Pics\\Median Filter Mid\\Img1.bmp   ' 8041.83 ms
-2020-03-28 02:02:05,849 root         INFO     'median_filter_mid   Pics\\Median Filter Mid\\Img2.bmp   ' 3667.12 ms
-2020-03-28 02:02:13,992 root         INFO     'median_filter_mid   Pics\\Median Filter Mid\\Img3.bmp   ' 8142.51 ms
-2020-03-28 02:02:20,260 root         INFO     'median_filter_mid   Pics\\Median Filter Mid\\Img4.bmp   ' 6265.20 ms
-2020-03-28 02:02:27,992 root         INFO     'median_filter_edg   Pics\\Median Filter Edg\\Img1.bmp   ' 7732.65 ms
-2020-03-28 02:02:31,689 root         INFO     'median_filter_edg   Pics\\Median Filter Edg\\Img2.bmp   ' 3696.71 ms
-2020-03-28 02:02:38,650 root         INFO     'median_filter_edg   Pics\\Median Filter Edg\\Img3.bmp   ' 6960.16 ms
-2020-03-28 02:02:44,271 root         INFO     'median_filter_edg   Pics\\Median Filter Edg\\Img4.bmp   ' 5617.76 ms
+2020-04-18 01:36:17,876 root         INFO     'median_filter_mid   Pics\\Median Filter Mid\\Img1.bmp   ' 6965.09 ms
+2020-04-18 01:36:21,052 root         INFO     'median_filter_mid   Pics\\Median Filter Mid\\Img2.bmp   ' 3173.21 ms
+2020-04-18 01:36:27,366 root         INFO     'median_filter_mid   Pics\\Median Filter Mid\\Img3.bmp   ' 6313.47 ms
+2020-04-18 01:36:32,154 root         INFO     'median_filter_mid   Pics\\Median Filter Mid\\Img4.bmp   ' 4786.08 ms
+2020-04-18 01:36:39,123 root         INFO     'median_filter_edg   Pics\\Median Filter Edg\\Img1.bmp   ' 6967.57 ms
+2020-04-18 01:36:42,368 root         INFO     'median_filter_edg   Pics\\Median Filter Edg\\Img2.bmp   ' 3242.73 ms
+2020-04-18 01:36:48,722 root         INFO     'median_filter_edg   Pics\\Median Filter Edg\\Img3.bmp   ' 6352.32 ms
+2020-04-18 01:36:53,517 root         INFO     'median_filter_edg   Pics\\Median Filter Edg\\Img4.bmp   ' 4793.86 ms
